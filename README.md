@@ -1,6 +1,3 @@
 testes de mesa, aritméticos e fluxogramas.
 
-# [programacaoealgoritmos](https://colab.research.google.com/drive/1H1JhpcpmzMwO9-Pci_Pe0AAZPWpVA3nl?usp=sharing)https://colab.research.google.com/drive/1H1JhpcpmzMwO9-Pci_Pe0AAZPWpVA3nl?usp=sharing
-# https://drive.google.com/file/d/1cU5_dGOKiV1f7LMuHeEHzsEKiBNiWMTx/view?usp=sharing
-# https://docs.google.com/spreadsheets/d/1PbQJTu8ubODE2hAJJzKL0cxQJxMexgg6hG8R-x65J3o/edit?usp=sharing
-# https://colab.research.google.com/drive/1pc-JW-GxqQvvH_Ttmnr8_kIhEfsr0Lbm
+(https://github.com/paolaonzara/logicadeprogramacaopython/blob/main/exerc%C3%ADcios%20com%20fluxograma/aritm%C3%A9ticos%2C_testes_de_mesa_e_fluxogramas.ipynb)https://github.com/paolaonzara/logicadeprogramacaopython/blob/main/exerc%C3%ADcios%20com%20fluxograma/aritm%C3%A9ticos%2C_testes_de_mesa_e_fluxogramas.ipynb
